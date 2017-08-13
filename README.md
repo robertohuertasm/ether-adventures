@@ -13,3 +13,5 @@ create your HelloWorld.sol contract
 > truffle console
 ```
 
+For the `webpack-sample` use: `truffle init webpack`.
+
