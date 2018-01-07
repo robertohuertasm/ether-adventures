@@ -1,6 +1,6 @@
 # ether-adventures
 
-Just some exercices to play with Ethereum.
+Just some exercises to play with Ethereum.
 
 I'm using  `Truffle` and `testrpc`.
 
